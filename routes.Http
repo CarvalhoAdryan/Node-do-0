@@ -9,11 +9,11 @@ Content-Type: application/json
 
 ###
 
-GET  http://localhost:3333/videos?search=01
+GET  https://node-do-0-d2o9.onrender.com/videos?search=01
 
 ###
 
-PUT http://localhost:3333/videos/7860417c-8393-4c40-82cb-08d00476f433
+PUT https://node-do-0-d2o9.onrender.com/videos/7860417c-8393-4c40-82cb-08d00476f433
 Content-Type: application/json
  
 {
@@ -24,4 +24,4 @@ Content-Type: application/json
 
 ###
 
-DELETE http://localhost:3333/videos/dfeeef07-fa6c-4dd0-b55f-3d7ba6745bd5
+DELETE https://node-do-0-d2o9.onrender.com/videos/dfeeef07-fa6c-4dd0-b55f-3d7ba6745bd5
